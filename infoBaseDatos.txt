@@ -1,0 +1,16 @@
+Acceso por consola mySql:
+
+	mysql -h bgb9dm3qwk1rkggui2nk-mysql.services.clever-cloud.com -P 3306 -u ui8jycg9jmqsij0p -p bgb9dm3qwk1rkggui2nk
+
+Password:
+
+	S78EUxpVJzOcbvmdprEr
+
+información .env
+
+PORT = 8804
+HOST_DB = bgb9dm3qwk1rkggui2nk-mysql.services.clever-cloud.com
+USER_DB = ui8jycg9jmqsij0p
+DATABASE_NAME = bgb9dm3qwk1rkggui2nk
+PORT_DB = 3306
+PASSWORD_DB =S78EUxpVJzOcbvmdprEr
